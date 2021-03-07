@@ -38,5 +38,5 @@ THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
 
-![image](https://user-images.githubusercontent.com/38770396/110227602-e8cb9f00-7eae-11eb-9117-9292345d9258.png)
+![image](https://user-images.githubusercontent.com/38770396/110228063-f84ce700-7eb2-11eb-88ae-5b96557cc901.png)
 
