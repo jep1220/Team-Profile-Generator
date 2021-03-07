@@ -40,5 +40,8 @@ THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
 
+![Untitled_ Mar 6, 2021 7_32 PM](https://user-images.githubusercontent.com/38770396/110228178-f172a400-7eb3-11eb-9421-20a20fc081ea.gif)
+
+
 ![image](https://user-images.githubusercontent.com/38770396/110228063-f84ce700-7eb2-11eb-88ae-5b96557cc901.png)
 
