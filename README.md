@@ -28,3 +28,6 @@ THEN I exit the application, and the HTML is generated
 
 
 ## Mock-Up
+
+![image](https://user-images.githubusercontent.com/38770396/110227602-e8cb9f00-7eae-11eb-9117-9292345d9258.png)
+
